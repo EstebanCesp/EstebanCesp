@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Mi nombre es Esteban Soy Colombiano.<br><br>-  👜 Actualmente no me encuentro trabajando<br>- 📚 Estudiando Desarrollo de software en el ITM <br><a href = "https://github.com/estebancespedes">Github personal</a></p>
+<p align="left">Mi nombre es Esteban Soy Colombiano.<br><br>-  👜 Actualmente no me encuentro trabajando<br>- 📚 Estudiando Desarrollo de software en el ITM <br><br><a href = "https://github.com/estebancespedes">Github personal</a></p>
 
 ###
 
